@@ -5,7 +5,7 @@ A fast-paced browser-based keyboard reflex game built with vanilla JavaScript. P
 ## Preview
 ![Reeflex Preview](static/preview.png)
 
-**[Play Now](https://abdullah-ghazi0.github.io/Reflex-Game/)**
+**[Play Now](https://abdullahghazi-swe.github.io/Reflex-Game/)**
 
 ## How to Play
  
